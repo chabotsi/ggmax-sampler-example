@@ -1,0 +1,4 @@
+git+https://github.com/chabotsi/ggmax-sampler#egg=ggmax_sampler
+ipywidgets
+plotly
+voila
